@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: forceMultiplier
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 4667098107012074865, guid: 2ecbcf4009f317841b3333cf0277b7af, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0ca6bb0852b22464788abb7337f232ca, type: 3}
     - target: {fileID: 4926228952490012415, guid: 2ecbcf4009f317841b3333cf0277b7af, type: 3}
       propertyPath: m_Name
       value: BallGyro (2)
@@ -328,6 +332,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4667098107012074865, guid: 2ecbcf4009f317841b3333cf0277b7af, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0ca6bb0852b22464788abb7337f232ca, type: 3}
     - target: {fileID: 4926228952490012415, guid: 2ecbcf4009f317841b3333cf0277b7af, type: 3}
       propertyPath: m_Name
       value: BallGyro (1)
@@ -679,9 +687,37 @@ PrefabInstance:
       propertyPath: m_Name
       value: ChallengeTimer
       objectReference: {fileID: 0}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 909135b6babdba54aa4f7c7f5ebb95fe, type: 2}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5598910689041527246, guid: 909135b6babdba54aa4f7c7f5ebb95fe, type: 2}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4278190335
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7981817915542971241, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
       propertyPath: m_text
-      value: "Acerte os buracos usando o girosc\xF3pio"
+      value: Acerte os buracos movendo o seu dispositivo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1167,6 +1203,10 @@ PrefabInstance:
       propertyPath: forceMultiplier
       value: 12
       objectReference: {fileID: 0}
+    - target: {fileID: 4667098107012074865, guid: 2ecbcf4009f317841b3333cf0277b7af, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0ca6bb0852b22464788abb7337f232ca, type: 3}
     - target: {fileID: 4926228952490012415, guid: 2ecbcf4009f317841b3333cf0277b7af, type: 3}
       propertyPath: m_Name
       value: BallGyro (3)

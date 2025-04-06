@@ -820,7 +820,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0ca6bb0852b22464788abb7337f232ca, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1096,6 +1096,50 @@ PrefabInstance:
     - target: {fileID: 3214817091111044270, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
       propertyPath: m_Name
       value: ChallengeTimer
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 909135b6babdba54aa4f7c7f5ebb95fe, type: 2}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.0141509175
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.0141509175
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5598910689041527246, guid: 909135b6babdba54aa4f7c7f5ebb95fe, type: 2}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4278453503
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296724924509400868, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981817915542971241, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_text
+      value: Toque na tela para soprar a bolinha
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981817915542971241, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 7981817915542971241, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 7981817915542971241, guid: 03a279e304a4de1498719b8dfac6da74, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
